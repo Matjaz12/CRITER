@@ -1,0 +1,7 @@
+parameterized
+matplotlib
+netCDF4
+numpy
+torch
+torchvision
+streamhist
