@@ -1,6 +1,6 @@
 # CRITER — A coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data
 
-[![DOI](https://zenodo.org/badge/871566439.svg)](https://doi.org/10.5281/zenodo.13923157)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923156.svg)](https://doi.org/10.5281/zenodo.13923156)
 
 This repository contains the official PyTorch implementation of the paper ["CRITER 1.0: A coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data"](https://gmd.copernicus.org/preprints/gmd-2024-208/), which is currently under review at Geoscientific Model Development journal.
 
