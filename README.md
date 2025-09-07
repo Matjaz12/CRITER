@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923156.svg)](https://doi.org/10.5281/zenodo.13923156)
 
-This repository contains the official PyTorch implementation of the paper ["CRITER 1.0: A coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data"]([https://gmd.copernicus.org/preprints/gmd-2024-208/](https://gmd.copernicus.org/articles/18/5549/2025/gmd-18-5549-2025.html)):
+This repository contains the official PyTorch implementation of the paper [CRITER 1.0: a coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data](https://gmd.copernicus.org/articles/18/5549/2025/gmd-18-5549-2025.html):
 ```
 @article{ZupancicMuc2025,
   author       = {Zupančič Muc, M. and Zavrtanik, V. and Barth, A. and Alvera-Azcarate, A. and Ličer, M. and Kristan, M.},
