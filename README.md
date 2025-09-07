@@ -1,4 +1,4 @@
-# CRITER — A coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data
+# CRITER — a coarse reconstruction with iterative refinement network for sparse spatio-temporal satellite data
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13923156.svg)](https://doi.org/10.5281/zenodo.13923156)
 
